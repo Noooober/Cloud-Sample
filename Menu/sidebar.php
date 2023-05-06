@@ -198,7 +198,7 @@ require_once('../FunctionFile.php');
                             </li>
 
                             <li class="nav-item">
-                                <a href="logout.php" class="nav-link">
+                                <a href="../Logout.php" class="nav-link">
                                     <i class="fas fa-sign-out-alt nav-icon"></i>
                                     <p>Logout</p>
                                 </a>
